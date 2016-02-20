@@ -1,0 +1,72 @@
+[submodule ".vim/plugged/ack.vim"]
+    path = ".vim/plugged/ack.vim"
+    url = https://github.com/mileszs/ack.vim
+[submodule ".vim/plugged/Align"]
+    path = ".vim/plugged/Align"
+    url = https://github.com/vim-scripts/Align
+[submodule ".vim/plugged/vim-characterize"]
+    path = ".vim/plugged/vim-characterize"
+    url = https://github.com/tpope/vim-characterize
+[submodule ".vim/plugged/ctrlp.vim"]
+    path = ".vim/plugged/ctrlp.vim"
+    url = https://github.com/kien/ctrlp.vim
+[submodule ".vim/plugged/vim-gitgutter"]
+    path = ".vim/plugged/vim-gitgutter"
+    url = https://github.com/airblade/vim-gitgutter
+[submodule ".vim/plugged/gundo.vim"]
+    path = ".vim/plugged/gundo.vim"
+    url = https://github.com/sjl/gundo.vim
+[submodule ".vim/plugged/gv.vim"]
+    path = ".vim/plugged/gv.vim"
+    url = https://github.com/junegunn/gv.vim
+[submodule ".vim/plugged/rainbow_parentheses.vim"]
+    path = ".vim/plugged/rainbow_parentheses.vim"
+    url = https://github.com/kien/rainbow_parentheses.vim
+[submodule ".vim/plugged/tabular"]
+    path = ".vim/plugged/tabular"
+    url = https://github.com/godlygeek/tabular
+[submodule ".vim/plugged/vim-airline"]
+    path = ".vim/plugged/vim-airline"
+    url = https://github.com/vim-airline/vim-airline
+[submodule ".vim/plugged/vim-easymotion"]
+    path = ".vim/plugged/vim-easymotion"
+    url = https://github.com/easymotion/vim-easymotion
+[submodule ".vim/plugged/vim-endwise"]
+    path = ".vim/plugged/vim-endwise"
+    url = https://github.com/tpope/vim-endwise
+[submodule ".vim/plugged/vim-fugitive"]
+    path = ".vim/plugged/vim-fugitive"
+    url = https://github.com/tpope/vim-fugitive
+[submodule ".vim/plugged/vim-rhubarb"]
+    path = ".vim/plugged/vim-rhubarb"
+    url = https://github.com/tpope/vim-rhubarb
+[submodule ".vim/plugged/vim-surround"]
+    path = ".vim/plugged/vim-surround"
+    url = https://github.com/tpope/vim-surround
+[submodule ".vim/plugged/vim-unimpaired"]
+    path = ".vim/plugged/vim-unimpaired"
+    url = https://github.com/tpope/vim-unimpaired
+[submodule ".vim/plugged/seoul256.vim"]
+    path = ".vim/plugged/seoul256.vim"
+    url = https://github.com/junegunn/seoul256.vim
+[submodule ".vim/plugged/vim-peekaboo"]
+    path = ".vim/plugged/vim-peekaboo"
+    url = https://github.com/junegunn/vim-peekaboo
+[submodule ".vim/plugged/SyntaxRange"]
+    path = ".vim/plugged/SyntaxRange"
+    url = https://github.com/vim-scripts/SyntaxRange
+[submodule ".vim/plugged/vim-commentary"]
+    path = ".vim/plugged/vim-commentary"
+    url = https://github.com/tpope/vim-commentary
+[submodule ".vim/plugged/vim-javascript"]
+    path = ".vim/plugged/vim-javascript"
+    url = https://github.com/pangloss/vim-javascript
+[submodule ".vim/plugged/vim-kalisi"]
+    path = ".vim/plugged/vim-kalisi"
+    url = https://github.com/freeo/vim-kalisi
+[submodule ".vim/plugged/vim-lapis256"]
+    path = ".vim/plugged/vim-lapis256"
+    url = https://github.com/andrwb/vim-lapis256
+[submodule ".vim/plugged/targets.vim"]
+    path = ".vim/plugged/targets.vim"
+    url = https://github.com/wellle/targets.vim

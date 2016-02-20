@@ -145,7 +145,6 @@ Plug 'tpope/vim-commentary'
 Plug 'pangloss/vim-javascript'
 Plug 'freeo/vim-kalisi'
 Plug 'andrwb/vim-lapis256'
-Plug 'pangloss/vim-javascript'
 Plug 'wellle/targets.vim'
 
 call plug#end()
