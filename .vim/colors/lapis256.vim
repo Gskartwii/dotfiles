@@ -1,0 +1,1 @@
+../plugged/vim-lapis256/colors/lapis256.vim
