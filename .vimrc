@@ -148,6 +148,8 @@ Plug 'andrwb/vim-lapis256'
 Plug 'wellle/targets.vim'
 Plug 'tpope/vim-abolish'
 Plug 'tpope/vim-repeat'
+Plug 'sclarki/neonwave.vim'
+Plug 'eduardoHoefel/matrix.vim'
 
 call plug#end()
 
