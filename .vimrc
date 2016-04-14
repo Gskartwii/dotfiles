@@ -146,6 +146,8 @@ Plug 'pangloss/vim-javascript'
 Plug 'freeo/vim-kalisi'
 Plug 'andrwb/vim-lapis256'
 Plug 'wellle/targets.vim'
+Plug 'sclarki/neonwave.vim'
+Plug 'eduardoHoefel/matrix.vim'
 
 call plug#end()
 
